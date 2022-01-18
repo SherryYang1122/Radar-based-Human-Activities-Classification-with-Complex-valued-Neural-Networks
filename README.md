@@ -18,7 +18,7 @@ Run models:
 ```
 !python train.py --path '.../rt_complex2.npy'
 ```
-Please modify the paths of the three NPY files (range-time, range-Doppler and micro-Doppler spectrograms) in the file on your own to get the results.
+Please modify the paths of the three NPY files (range-time, range-Doppler and micro-Doppler spectrograms) in the file on your own to get the results. Other arguments may be added as well, such as batchsize and epochs.
 
 ## Reference
 * Trabelsi, Chiheb, et al. "Deep complex networks." arXiv preprint arXiv:1705.09792 (2017)
