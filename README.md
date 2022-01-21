@@ -3,6 +3,10 @@ Code used to generate the results for the paper ‘Radar-based Human Activities 
 
 This work was performed as part of an MSc thesis project at TU Delft; please see https://repository.tudelft.nl/islandora/object/uuid%3A5cfd6c16-4db6-45c7-88d6-34acf44f8848?collection=education. Disclaimer: the scripts have originated from a student project and have not been optimised for professional usage.  
 
+## Raw Data Download
+The data processed for this work are available at https://data.4tu.nl/articles/dataset/Dataset_of_continuous_human_activities_performed_in_arbitrary_directions_collected_with_a_distributed_radar_network_of_five_nodes/16691500/2
+
+
 ## Input Data Preparation (Matlab)
 Matlab scripts are for the signal pre-processing pipeline to generate the radar dataset, including 3 data formats (range-time, range-Doppler and micro-Doppler spectrograms). NPY files are the input of the neural network for subsequent processing. 
 Note that the Npy-matlab package to save NumPy's NPY format (.npy files) in MATLAB https://github.com/kwikteam/npy-matlab needs to be installed.
@@ -22,3 +26,4 @@ Please modify the paths of the three NPY files (range-time, range-Doppler and mi
 
 ## Reference
 * Trabelsi, Chiheb, et al. "Deep complex networks." arXiv preprint arXiv:1705.09792 (2017)
+* Guendel, Ronny Gerhard; Unterhorst, Matteo; Fioranelli, Francesco; Yarovoy, Alexander (2021): Dataset of continuous human activities performed in arbitrary directions collected with a distributed radar network of five nodes. 4TU.ResearchData. Dataset. https://doi.org/10.4121/16691500.v2 
