@@ -1,7 +1,9 @@
 # Radar-based Human Activities Classification with Complex-valued Neural Networks
 Code used to generate the results for the paper ‘Radar-based Human Activities Classification with Complex-valued Neural Networks’. This has been accepted and will be presented at the IEEE Radar Conference 2022.
 
-This work was performed as part of an MSc thesis project at TU Delft; please see https://repository.tudelft.nl/islandora/object/uuid%3A5cfd6c16-4db6-45c7-88d6-34acf44f8848?collection=education. Disclaimer: the scripts have originated from a student project and have not been optimised for professional usage.  
+This work was performed as part of an MSc thesis project at TU Delft; please see https://repository.tudelft.nl/islandora/object/uuid%3A5cfd6c16-4db6-45c7-88d6-34acf44f8848?collection=education. 
+
+Disclaimer: the scripts have originated from a student project and have not been optimised for professional usage.  
 
 ## Raw Data Download
 The data processed for this work are available at https://data.4tu.nl/articles/dataset/Dataset_of_continuous_human_activities_performed_in_arbitrary_directions_collected_with_a_distributed_radar_network_of_five_nodes/16691500/2
